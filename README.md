@@ -1,7 +1,7 @@
 
 ## Sobre o Projeto
-  Site Pessoal, para divulgação de aulas e projetos em Excel, VBA e Programação Javascript
-  Desenvolvido com o intuíto de divulgar minhas aulas / consultoria em excel.
+  Site Pessoal, para divulgação de aulas e projetos em Excel, VBA e Programação Javascript.<br>
+  Desenvolvido com o intuíto de divulgar minhas aulas / consultoria em excel.<br>
   integração no Calendly.
 
 ## Front-End
